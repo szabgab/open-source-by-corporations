@@ -6,7 +6,7 @@
 * https://github.com/AMD
 * https://github.com/Apple
 * https://github.com/Atlassian
-* https://github.com/att
+* https://github.com/ATT
 * https://github.com/AWS
 * https://github.com/AWSlabs
 * https://github.com/Bookingcom
@@ -61,9 +61,14 @@
 * https://github.com/Zoom
 
 
-* [Wordpress](https://wordpress.org/download/source/)
 
-* [Gitlab.org](https://gitlab.com/gitlab-org) and [GitLab.com](https://gitlab.com/gitlab-com)
+# Companies where the product is Open Source
+
+* https://github.com/elastic
+* https://github.com/mongodb
+* https://github.com/Reddit
+* [Wordpress](https://wordpress.org/download/source/)
+* [GitLab.org](https://gitlab.com/gitlab-org) and [GitLab.com](https://gitlab.com/gitlab-com)
 
 
 ## Non-profits
