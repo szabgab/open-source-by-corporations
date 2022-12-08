@@ -1,4 +1,4 @@
-# Open Source projects by corporations
+# Open Source by corporations
 
 * https://github.com/amd
 * https://github.com/apple
