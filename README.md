@@ -1,22 +1,49 @@
 # Open Source by corporations
 
-* https://github.com/amd
-* https://github.com/apple
-* https://github.com/facebook
-* https://github.com/ford
-* https://github.com/github/
-* https://github.com/google
-* https://github.com/intel
-* https://github.com/mercedes-benz
-* https://github.com/microsoft
-* https://github.com/netflix
-* https://github.com/oracle
+* https://github.com/Accenture
+* https://github.com/Adobe
+* https://github.com/AMD
+* https://github.com/Apple
+* https://github.com/Atlassian
+* https://github.com/AWS
+* https://github.com/AWSlabs
+* https://github.com/Broadcom
+* https://github.com/Capgemini
+* https://github.com/Cisco
+* https://github.com/Disney
+* https://github.com/Facebook
+* https://github.com/Ford
+* https://github.com/Github
+* https://github.com/Google
+* https://github.com/Instagram
+* https://github.com/Intel
+* https://github.com/Intuit
+* https://github.com/Mercedes-benz
+* https://github.com/Microsoft
+* https://github.com/Netflix
+* https://github.com/Nvidia
+* https://github.com/Oracle
+* https://github.com/Salesforce
 * https://github.com/SalesforceFoundation
-* https://github.com/spotify
-* https://github.com/twitter
-* https://github.com/volkswagen
-* https://github.com/wix
-* https://github.com/zapier
+* https://github.com/Samsung
+* https://github.com/SAP
+* https://github.com/Shopify
+* https://github.com/Spotify
+* https://github.com/Synopsys-sig
+* https://github.com/Tencent/
+* https://github.com/TencentCloud/
+* https://github.com/TikTok
+* https://github.com/Twitter
+* https://github.com/Uber
+* https://github.com/Visa
+* https://github.com/VMware
+* https://github.com/VolksWagen
+* https://github.com/WIX
+* https://github.com/Youtube
+* https://github.com/Zapier
+* https://github.com/Zappos
+* https://github.com/Zoom
+
 
 
 * [Wordpress](https://wordpress.org/download/source/)
