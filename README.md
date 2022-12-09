@@ -11,24 +11,62 @@ not happen you can include your contribution in your CV and you can mention it d
 * https://github.com/AMD
 * https://github.com/Apple
 * https://github.com/Atlassian
+* https://github.com/AristaNetworks
 * https://github.com/ATT
+* https://github.com/Automattic
 * https://github.com/AWS
 * https://github.com/AWSlabs
+* https://github.com/BlackDuckSoftware
 * https://github.com/Bookingcom
 * https://github.com/Broadcom
+* https://github.com/Canonical
+* https://github.com/CanonicalLtd
+* https://github.com/Canonical-web-and-design
+* https://github.com/Canonical-OLS
+* https://github.com/Canonical-LLC
+* https://github.com/Canonical-debate-lab
 * https://github.com/Capgemini
 * https://github.com/Cisco
+* https://github.com/CloudBees
+* https://github.com/CloudBees-days
+* [CloudBees - Electric Cloud](https://github.com/electric-cloud)
+* [CloudBees Feature Management](https://github.com/rollout)
+* [CloudBees Demos](https://github.com/cb-demos)
+* https://github.com/CloudBees-OSS
+* https://github.com/Cloudera
+* https://github.com/Cloudera-labs
+* [Cloudera Inc](https://github.com/hortonworks)
+* [Cloudera Fast Forward Labs](https://github.com/fastforwardlabs)
 * https://github.com/Comcast
+* https://github.com/ConfluentInc
+* https://github.com/ConfluentJenkins
+* https://github.com/ConfluentForms
+* https://github.com/Databricks
+* https://github.com/Databricks-Academy
+* https://github.com/DatabricksLabs
+* https://github.com/Databricks-PTP
+* https://github.com/DataStax
+* https://github.com/DataStaxDevs
+* https://github.com/DataStax-Examples
+* https://github.com/DataStax-Academy
+* https://github.com/Dell
 * https://github.com/Disney
+* https://github.com/Docker
+* https://github.com/Docker-library
+* https://github.com/DoorDash
+* https://github.com/eBay
 * https://github.com/Facebook
 * https://github.com/Ford
-* https://github.com/Forem/
+* https://github.com/Forem
 * https://github.com/Github
 * https://github.com/Google
+* https://github.com/HewlettPackard
 * https://github.com/IBM
 * https://github.com/Instagram
 * https://github.com/Intel
 * https://github.com/Intuit
+* https://github.com/Logitech
+* https://github.com/Lyft
 * https://github.com/Mastercard
 * https://github.com/Mercedes-Benz
 * https://github.com/Microsoft
@@ -62,7 +100,9 @@ not happen you can include your contribution in your CV and you can mention it d
 * https://github.com/Visa
 * https://github.com/VMware
 * https://github.com/VolksWagen
+* https://github.com/WalmartLabs
 * https://github.com/WIX
+* https://github.com/Yahoo
 * https://github.com/Youtube
 * https://github.com/Zapier
 * https://github.com/Zappos
@@ -74,6 +114,7 @@ not happen you can include your contribution in your CV and you can mention it d
 This is going to be a separate list of companies where the main product is itself Open Source.
 For these the above suggestion might be even more relevant, but I felt they deserve a separate category.
 
+* https://github.com/Chef
 * https://github.com/Eelastic
 * https://github.com/Mongodb
 * https://github.com/Reddit
