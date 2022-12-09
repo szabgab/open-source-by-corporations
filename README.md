@@ -83,27 +83,52 @@ not happen you can include your contribution in your CV and you can mention it d
 * https://github.com/Intel
 * https://github.com/IntelLabs
 * https://github.com/Intuit
+* https://github.com/LinkedIn
+* https://github.com/LinkedInLearning
+* https://github.com/LinkedIn-samples
+* https://github.com/LinkedInAttic
 * https://github.com/Logitech
 * https://github.com/Lyft
 * https://github.com/Mastercard
 * https://github.com/Mercedes-Benz
 * https://github.com/Microsoft
+* https://github.com/MicrosoftDocs
+* https://github.com/MicrosoftLearning
+* https://github.com/Azure
+* https://github.com/MicrosoftGraph
+* https://github.com/Microsoft-OpenSource-Labs
+* https://github.com/MicrosoftEdge
+* https://github.com/MicrosoftArchive
 * https://github.com/Netflix
+* https://github.com/nginx
+* https://github.com/npm
 * https://github.com/Nvidia
 * https://github.com/Oracle
 * https://github.com/PayPal
+* https://github.com/PuppetLabs
 * [Qualcomm Atheros](https://github.com/qca)
+* https://github.com/Reddit
+* https://github.com/RedHatOfficial
+* https://github.com/redhat-developer
+* https://github.com/redhat-cop
+* https://github.com/RedHatTraining
+* https://github.com/redhat-developer-demos
+* https://github.com/redhat-scholars
+* https://github.com/redhat-performance
 * https://github.com/Robinhood
 * https://github.com/Salesforce
 * https://github.com/SalesforceFoundation
 * https://github.com/Samsung
 * https://github.com/SAP
+* https://github.com/SauceLabs
 * https://github.com/Seaber-io
 * https://github.com/ServiceNow
 * https://github.com/Shopify
 * https://github.com/Spotify
 * https://github.com/Square
 * https://github.com/Stripe
+* https://github.com/SUSE
+* https://github.com/openSUSE
 * https://github.com/Synopsys-sig
 * https://github.com/T-MobileNL
 * https://github.com/Tencent/
@@ -114,6 +139,7 @@ not happen you can include your contribution in your CV and you can mention it d
 * https://github.com/TikTok
 * https://github.com/Twitter
 * https://github.com/Uber
+* https://github.com/Ubuntu
 * https://github.com/Verizon
 * https://github.com/Visa
 * https://github.com/VMware
@@ -134,8 +160,12 @@ For these the above suggestion might be even more relevant, but I felt they dese
 
 * https://github.com/Chef
 * https://github.com/Eelastic
-* https://github.com/Mongodb
-* https://github.com/Reddit
+* https://github.com/MongoDB
+* https://github.com/MongoDB-developer
+* https://github.com/MongoDB-labs
+* https://github.com/MongoDB-js
+* https://github.com/RedisLabs
+* https://github.com/RedisLabsDemo
 * https://github.com/WordPress see also [Wordpress](https://wordpress.org/download/source/)
 * [GitLab.org](https://gitlab.com/gitlab-org) and [GitLab.com](https://gitlab.com/gitlab-com)
 
