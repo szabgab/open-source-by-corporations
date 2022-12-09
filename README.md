@@ -29,7 +29,7 @@ not happen you can include your contribution in your CV and you can mention it d
 * https://github.com/Intel
 * https://github.com/Intuit
 * https://github.com/Mastercard
-* https://github.com/Mercedes-benz
+* https://github.com/Mercedes-Benz
 * https://github.com/Microsoft
 * https://github.com/Netflix
 * https://github.com/Nvidia
@@ -51,6 +51,7 @@ not happen you can include your contribution in your CV and you can mention it d
 * https://github.com/T-MobileNL
 * https://github.com/Tencent/
 * https://github.com/TencentCloud/
+* https://github.com/Teslamotors
 * https://github.com/TexasInstruments
 * https://github.com/TikTok
 * https://github.com/Twitter
@@ -91,5 +92,9 @@ Most of the cases they have various research labs that do this.
 
 For them I maintain a separate list of [Open Source by Higher Education Institutes](https://github.com/szabgab/open-source-by-higher-education).
 
+
+## Open Source projects shared by corporations
+
+* https://github.com/carla-simulator  [Open-source simulator for autonomous driving research](https://carla.org/)
 
 
