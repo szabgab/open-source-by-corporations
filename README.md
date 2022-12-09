@@ -22,6 +22,7 @@ not happen you can include your contribution in your CV and you can mention it d
 * https://github.com/Disney
 * https://github.com/Facebook
 * https://github.com/Ford
+* https://github.com/Forem/
 * https://github.com/Github
 * https://github.com/Google
 * https://github.com/IBM
@@ -53,7 +54,7 @@ not happen you can include your contribution in your CV and you can mention it d
 * https://github.com/TencentCloud/
 * https://github.com/Teslamotors
 * https://github.com/TexasInstruments
-* https://github.com/tumblr
+* https://github.com/Tumblr
 * https://github.com/TikTok
 * https://github.com/Twitter
 * https://github.com/Uber
@@ -73,8 +74,8 @@ not happen you can include your contribution in your CV and you can mention it d
 This is going to be a separate list of companies where the main product is itself Open Source.
 For these the above suggestion might be even more relevant, but I felt they deserve a separate category.
 
-* https://github.com/elastic
-* https://github.com/mongodb
+* https://github.com/Eelastic
+* https://github.com/Mongodb
 * https://github.com/Reddit
 * https://github.com/WordPress see also [Wordpress](https://wordpress.org/download/source/)
 * [GitLab.org](https://gitlab.com/gitlab-org) and [GitLab.com](https://gitlab.com/gitlab-com)
