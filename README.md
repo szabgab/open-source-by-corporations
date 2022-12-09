@@ -53,6 +53,7 @@ not happen you can include your contribution in your CV and you can mention it d
 * https://github.com/TencentCloud/
 * https://github.com/Teslamotors
 * https://github.com/TexasInstruments
+* https://github.com/tumblr
 * https://github.com/TikTok
 * https://github.com/Twitter
 * https://github.com/Uber
@@ -75,7 +76,7 @@ For these the above suggestion might be even more relevant, but I felt they dese
 * https://github.com/elastic
 * https://github.com/mongodb
 * https://github.com/Reddit
-* [Wordpress](https://wordpress.org/download/source/)
+* https://github.com/WordPress see also [Wordpress](https://wordpress.org/download/source/)
 * [GitLab.org](https://gitlab.com/gitlab-org) and [GitLab.com](https://gitlab.com/gitlab-com)
 
 
