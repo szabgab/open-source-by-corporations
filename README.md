@@ -37,6 +37,7 @@ not happen you can include your contribution in your CV and you can mention it d
 * https://github.com/Cloudera-labs
 * [Cloudera Inc](https://github.com/hortonworks)
 * [Cloudera Fast Forward Labs](https://github.com/fastforwardlabs)
+* [Cloudera Hortonworks](https://github.com/hortonworks)
 * https://github.com/Comcast
 * https://github.com/ConfluentInc
 * https://github.com/ConfluentJenkins
@@ -53,6 +54,7 @@ not happen you can include your contribution in your CV and you can mention it d
 * https://github.com/Disney
 * https://github.com/Docker
 * https://github.com/Docker-library
+* https://github.com/DockerSamples
 * https://github.com/DoorDash
 * https://github.com/eBay
 * https://github.com/Facebook
@@ -60,10 +62,26 @@ not happen you can include your contribution in your CV and you can mention it d
 * https://github.com/Forem
 * https://github.com/Github
 * https://github.com/Google
+* [Terraform modules for Google Cloud](https://github.com/terraform-google-modules)
+* https://github.com/Gradle
+* https://github.com/Gradlex-org
+* https://github.com/HashiCorp
+* https://github.com/HashiCorp-DemoApp
+* https://github.com/HashiCorp-dev-advocates
 * https://github.com/HewlettPackard
+* https://github.com/Huawei
+* https://github.com/Huawei-noah
+* https://github.com/HuaweiCloud
+* https://github.com/HuaweiCodeLabs
 * https://github.com/IBM
+* https://github.com/ibm-developer-skills-network
+* https://github.com/ibm-cloud-architecture
+* https://github.com/IBMPredictiveAnalytics
+* https://github.com/ibm-skills-network
+* https://github.com/ibmruntimes
 * https://github.com/Instagram
 * https://github.com/Intel
+* https://github.com/IntelLabs
 * https://github.com/Intuit
 * https://github.com/Logitech
 * https://github.com/Lyft
