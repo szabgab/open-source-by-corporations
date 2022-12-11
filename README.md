@@ -187,9 +187,24 @@ There are also some non-profits that share some or all of their code.
 * [Province of Alberta](https://github.com/abgov)
 * [The City of Sault Ste. Marie in the Province of Ontario](https://github.com/cityssm)
 * [Canadian Municipal GitHub Rankings](https://cityssm.github.io/municipal-github-rankings/)
+* [Government Digital Service](https://github.com/alphagov)
 
 * [e-Government Ministry, Republic of Bulgaria](https://github.com/governmentbg)
 * [Autonomous Province of Bozen-Bolzano - South Tyrol](https://github.com/provbz)
+* [Open Government Products](https://github.com/opengovsg)  Singapore
+* [Government Digital Services, Singapore](https://github.com/GovTechSG)
+
+* [Developers Italia](https://github.com/italia)
+* [Queensland Government](https://github.com/qld-gov-au)
+
+* [UK Government Data Science](https://github.com/ukgovdatascience)
+* [[Unofficial] UK Government Mirror](https://github.com/uk-gov-mirror)
+* [Scottish Government](https://github.com/scottishgovernment)
+
+* [OpenGovernment](https://github.com/opengovernment)
+
+* [Korean e-Government Standard Framework Center](https://github.com/eGovFramework)
+
 
 
 ## Universities and Higher Education
