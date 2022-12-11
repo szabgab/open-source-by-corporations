@@ -179,7 +179,18 @@ There are also some non-profits that share some or all of their code.
 
 ## Governments
 
-* [Province of British Columbia ](https://github.com/bcgov/)
+* [Province of British Columbia](https://github.com/bcgov/)
+* [Province of British Columbia DevOps ](https://github.com/BCDevOps)
+* [Province of British Columbia Social Sector](https://github.com/bcgov-isd)
+* [Department of Health Services, Southern Province](https://github.com/pdhs)
+* [Province of British Columbia Corporate](https://github.com/bcgov-c)
+* [Province of Alberta](https://github.com/abgov)
+* [The City of Sault Ste. Marie in the Province of Ontario](https://github.com/cityssm)
+* [Canadian Municipal GitHub Rankings](https://cityssm.github.io/municipal-github-rankings/)
+
+* [e-Government Ministry, Republic of Bulgaria](https://github.com/governmentbg)
+* [Autonomous Province of Bozen-Bolzano - South Tyrol](https://github.com/provbz)
+
 
 ## Universities and Higher Education
 
