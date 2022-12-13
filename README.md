@@ -21,6 +21,7 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/BlackDuckSoftware
 * https://github.com/Bookingcom
 * https://github.com/Broadcom
+* https://github.com/Bloomberg
 * https://github.com/Canonical
 * https://github.com/CanonicalLtd
 * https://github.com/Canonical-web-and-design
