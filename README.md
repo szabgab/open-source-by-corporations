@@ -174,12 +174,6 @@ For these the above suggestion might be even more relevant, but I felt they dese
 * [GitLab.org](https://gitlab.com/gitlab-org) and [GitLab.com](https://gitlab.com/gitlab-com)
 
 
-## Non-profits
-
-There are also some non-profits that share some or all of their code.
-
-* [Wikipedia - Wikimedia](https://github.com/wikimedia)
-
 
 ## Open Source projects shared by corporations
 
