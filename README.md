@@ -20,6 +20,15 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/AWSlabs
 * https://github.com/BlackDuckSoftware
 * https://github.com/Bookingcom
+* https://github.com/Bosch
+* https://github.com/Bosch-Engineering
+* https://github.com/BoschGlobal
+* https://github.com/Bosch-IO
+* https://github.com/Bosch-IOB
+* https://github.com/BoschResearch
+* https://github.com/BoschSensortec
+* https://github.com/BoschSmartHome
+* https://github.com/BoschRexroth
 * https://github.com/Broadcom
 * https://github.com/Bloomberg
 * https://github.com/Canonical
@@ -109,6 +118,12 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/Nvidia
 * https://github.com/Oracle
 * https://github.com/PayPal
+* https://github.com/Philips-internal
+* https://github.com/Philips-labs
+* https://github.com/Philips-EMR
+* https://github.com/Philips-Software
+* https://github.com/Philips-Forks
+* https://github.com/DEVin-Philips
 * https://github.com/PuppetLabs
 * [Qualcomm Atheros](https://github.com/qca)
 * https://github.com/Reddit
@@ -128,7 +143,11 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/Seaber-io
 * https://github.com/ServiceNow
 * https://github.com/Shopify
+* https://github.com/Siemens
+* https://github.com/SiemensIndustrialEdgeITA (Siemens?)
+* https://github.com/Siemens-Healthineers
 * [SOTEC GmbH & Co KG](https://github.com/sotec-iot)
+* https://github.com/SparkFun
 * https://github.com/Spotify
 * https://github.com/Square
 * https://github.com/Stripe
