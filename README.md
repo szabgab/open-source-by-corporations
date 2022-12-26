@@ -128,6 +128,7 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/Seaber-io
 * https://github.com/ServiceNow
 * https://github.com/Shopify
+* [SOTEC GmbH & Co KG](https://github.com/sotec-iot)
 * https://github.com/Spotify
 * https://github.com/Square
 * https://github.com/Stripe
