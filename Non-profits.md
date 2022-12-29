@@ -20,3 +20,4 @@ The Following projects have not been vetted for really being non-profit. That is
 
 * https://github.com/COCAFoundation
 
+* https://github.com/Chameleon-company
