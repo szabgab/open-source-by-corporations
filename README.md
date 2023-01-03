@@ -176,6 +176,8 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/Zappos
 * https://github.com/Zoom
 
+* https://github.com/vanstyn (by https://www.intellitree.com/)
+* https://github.com/nrdvana (by https://www.intellitree.com/)
 
 ## Companies where the product is Open Source
 
