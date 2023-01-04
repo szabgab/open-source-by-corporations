@@ -193,8 +193,9 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/Zappos
 * https://github.com/Zoom
 
-* https://github.com/vanstyn (by https://www.intellitree.com/)
-* https://github.com/nrdvana (by https://www.intellitree.com/)
+* https://github.com/IntelliTree
+* https://github.com/vanstyn (Owner of https://www.intellitree.com/)
+* https://github.com/nrdvana (Most senior employee of https://www.intellitree.com/)
 
 
 * https://github.com/bucardo collected on https://www.endpointdev.com/ (by https://www.endpointdev.com/ )
