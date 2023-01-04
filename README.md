@@ -31,6 +31,8 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/BoschRexroth
 * https://github.com/Broadcom
 * https://github.com/Bloomberg
+* https://github.com/Bytemarkinc
+* https://github.com/BytemarkHosting
 * https://github.com/Canonical
 * https://github.com/CanonicalLtd
 * https://github.com/Canonical-web-and-design
@@ -54,6 +56,9 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/ConfluentInc
 * https://github.com/ConfluentJenkins
 * https://github.com/ConfluentForms
+* https://github.com/cPanel
+* https://github.com/cPanelInc
+* https://github.com/cPanelPlugins
 * https://github.com/Databricks
 * https://github.com/Databricks-Academy
 * https://github.com/DatabricksLabs
@@ -63,6 +68,9 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/DataStax-Examples
 * https://github.com/DataStax-Academy
 * https://github.com/Dell
+* https://github.com/Deriv-com
+* https://github.com/Derivable-io
+* https://github.com/DerivedFinance
 * https://github.com/Disney
 * https://github.com/Docker
 * https://github.com/Docker-library
@@ -70,8 +78,12 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/DoorDash
 * https://github.com/eBay
 * https://github.com/Facebook
+* https://github.com/Fastly
 * https://github.com/Ford
 * https://github.com/Forem
+* https://github.com/geo-codes-com
+* https://github.com/geocodeearth
+* https://github.com/geocode2020
 * https://github.com/Github
 * https://github.com/Google
 * [Terraform modules for Google Cloud](https://github.com/terraform-google-modules)
@@ -86,11 +98,11 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/HuaweiCloud
 * https://github.com/HuaweiCodeLabs
 * https://github.com/IBM
-* https://github.com/ibm-developer-skills-network
-* https://github.com/ibm-cloud-architecture
+* https://github.com/IBM-developer-skills-network
+* https://github.com/IBM-cloud-architecture
 * https://github.com/IBMPredictiveAnalytics
-* https://github.com/ibm-skills-network
-* https://github.com/ibmruntimes
+* https://github.com/IBM-skills-network
+* https://github.com/IBMruntimes
 * https://github.com/Instagram
 * https://github.com/Intel
 * https://github.com/IntelLabs
@@ -99,6 +111,10 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/LinkedInLearning
 * https://github.com/LinkedIn-samples
 * https://github.com/LinkedInAttic
+* https://github.com/LiquidHackGroup
+* https://github.com/LiquidLight
+* https://github.com/LiquidWeb
+* https://github.com/Liquid-Web-Design-London
 * https://github.com/Logitech
 * https://github.com/Lyft
 * https://github.com/Mastercard
@@ -116,6 +132,7 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/nginx
 * https://github.com/npm
 * https://github.com/Nvidia
+* https://github.com/OpenCageData
 * https://github.com/Oracle
 * https://github.com/PayPal
 * https://github.com/Philips-internal
