@@ -179,6 +179,9 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/vanstyn (by https://www.intellitree.com/)
 * https://github.com/nrdvana (by https://www.intellitree.com/)
 
+
+* https://github.com/bucardo collected on https://www.endpointdev.com/ (by https://www.endpointdev.com/ )
+
 ## Companies where the product is Open Source
 
 This is going to be a separate list of companies where the main product is itself Open Source.
