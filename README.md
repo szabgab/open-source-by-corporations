@@ -18,6 +18,7 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/Automattic
 * https://github.com/AWS
 * https://github.com/AWSlabs
+* https://github.com/bioinform
 * https://github.com/BlackDuckSoftware
 * https://github.com/Bookingcom
 * https://github.com/Bosch
