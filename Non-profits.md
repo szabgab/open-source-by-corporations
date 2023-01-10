@@ -5,7 +5,7 @@ There are also some non-profits that share some or all of their code.
 * [Wikipedia - Wikimedia](https://github.com/wikimedia)
 
 
-## [Gene Ontology consortioum] (https://github.com/geneontology/)
+## [Gene Ontology consortioum](https://github.com/geneontology/)
 
 * https://github.com/geneontology/geneontology.github.io
 * https://github.com/geneontology/go-ontology
