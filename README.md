@@ -172,6 +172,7 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/SUSE
 * https://github.com/openSUSE
 * https://github.com/Synopsys-sig
+* https://github.com/Tailscale
 * https://github.com/T-MobileNL
 * https://github.com/Tencent/
 * https://github.com/TencentCloud/
