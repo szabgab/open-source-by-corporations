@@ -19,6 +19,7 @@ There are also some non-profits that share some or all of their code.
 
 ## 
 * https://github.com/zarr-developers/zarr-python
+* https://github.com/scikit-learn/scikit-learn
 
 The Following projects have not been vetted for really being non-profit. That is still need to be determined.
 
