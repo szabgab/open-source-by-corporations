@@ -135,7 +135,6 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/nginx
 * https://github.com/npm
 * https://github.com/Nvidia
-* https://github.com/nanoporetech
 * https://github.com/OpenCageData
 * https://github.com/Oracle
 * https://github.com/PacificBiosciences
