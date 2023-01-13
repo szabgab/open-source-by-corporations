@@ -130,6 +130,7 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/MicrosoftEdge
 * https://github.com/MicrosoftArchive
 * https://github.com/mitre
+* https://github.com/nanoporetech
 * https://github.com/Netflix
 * https://github.com/nginx
 * https://github.com/npm
