@@ -147,6 +147,7 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/DEVin-Philips
 * https://github.com/PuppetLabs
 * [Qualcomm Atheros](https://github.com/qca)
+* https://github.com/realpython
 * https://github.com/Reddit
 * https://github.com/RedHatOfficial
 * https://github.com/redhat-developer
