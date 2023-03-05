@@ -7,49 +7,49 @@ not happen you can include your contribution in your CV and you can mention it d
 
 There are separate lists  [Open Source by Higher Education Institutes](https://github.com/szabgab/open-source-by-higher-education) and [Open Source by government](https://github.com/szabgab/open-source-by-government)
 
-* https://github.com/Accenture
-* https://github.com/Adobe
-* https://github.com/Airbnb
-* https://github.com/AMD
-* https://github.com/Apple
-* https://github.com/Atlassian
-* https://github.com/AristaNetworks
-* https://github.com/ATT
-* https://github.com/Automattic
-* https://github.com/AWS
-* https://github.com/AWSlabs
+    * https://github.com/Accenture
+    * https://github.com/Adobe
+    * https://github.com/Airbnb
+    * https://github.com/AMD
+    * https://github.com/Apple
+    * https://github.com/Atlassian
+    * https://github.com/AristaNetworks
+    * https://github.com/ATT
+    * https://github.com/Automattic
+    * https://github.com/AWS
+    * https://github.com/AWSlabs
 * https://github.com/bioinform Roche Sequencing Solutions
 * https://github.com/BlackDuckSoftware
-* https://github.com/Bookingcom
-* https://github.com/Bosch
-* https://github.com/Bosch-Engineering
-* https://github.com/BoschGlobal
-* https://github.com/Bosch-IO
-* https://github.com/Bosch-IOB
-* https://github.com/BoschResearch
-* https://github.com/BoschSensortec
-* https://github.com/BoschSmartHome
+    * https://github.com/Bookingcom
+    * https://github.com/Bosch
+    * https://github.com/Bosch-Engineering
+    * https://github.com/BoschGlobal
+    * https://github.com/Bosch-IO
+    * https://github.com/Bosch-IOB
+    * https://github.com/BoschResearch
+    * https://github.com/BoschSensortec
+    * https://github.com/BoschSmartHome
 * https://github.com/BoschRexroth
-* https://github.com/Broadcom
-* https://github.com/Bloomberg
+    * https://github.com/Broadcom
+    * https://github.com/Bloomberg
 * https://github.com/Bytemarkinc
 * https://github.com/BytemarkHosting
-* https://github.com/Canonical
+    * https://github.com/Canonical
 * https://github.com/CanonicalLtd
 * https://github.com/Canonical-web-and-design
 * https://github.com/Canonical-OLS
 * https://github.com/Canonical-LLC
 * https://github.com/Canonical-debate-lab
-* https://github.com/Capgemini
-* https://github.com/Cisco
-* https://github.com/CloudBees
-* https://github.com/CloudBees-days
-* [CloudBees - Electric Cloud](https://github.com/electric-cloud)
+    * https://github.com/Capgemini
+    * https://github.com/Cisco
+    * https://github.com/CloudBees
+    * https://github.com/CloudBees-days
+    * [CloudBees - Electric Cloud](https://github.com/electric-cloud)
 * [CloudBees Feature Management](https://github.com/rollout)
 * [CloudBees Demos](https://github.com/cb-demos)
 * https://github.com/CloudBees-OSS
-* https://github.com/Cloudera
-* https://github.com/Cloudera-labs
+    * https://github.com/Cloudera
+    * https://github.com/Cloudera-labs
 * [Cloudera Inc](https://github.com/hortonworks)
 * [Cloudera Fast Forward Labs](https://github.com/fastforwardlabs)
 * [Cloudera Hortonworks](https://github.com/hortonworks)
@@ -68,11 +68,11 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/DataStaxDevs
 * https://github.com/DataStax-Examples
 * https://github.com/DataStax-Academy
-* https://github.com/Dell
+    * https://github.com/Dell
 * https://github.com/Deriv-com
 * https://github.com/Derivable-io
-* https://github.com/DerivedFinance
-* https://github.com/Disney
+    * https://github.com/DerivedFinance
+    * https://github.com/Disney
 * https://github.com/Docker
 * https://github.com/Docker-library
 * https://github.com/DockerSamples
@@ -81,12 +81,12 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/Facebook
 * https://github.com/Fastly
 * https://github.com/Ford
-* https://github.com/Forem
+    * https://github.com/Forem
 * https://github.com/geo-codes-com
 * https://github.com/geocodeearth
 * https://github.com/geocode2020
-* https://github.com/Github
-* https://github.com/Google
+    * https://github.com/Github
+    * https://github.com/Google
 * [Terraform modules for Google Cloud](https://github.com/terraform-google-modules)
 * https://github.com/Gradle
 * https://github.com/Gradlex-org
@@ -98,14 +98,14 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/Huawei-noah
 * https://github.com/HuaweiCloud
 * https://github.com/HuaweiCodeLabs
-* https://github.com/IBM
-* https://github.com/IBM-developer-skills-network
-* https://github.com/IBM-cloud-architecture
+    * https://github.com/IBM
+    * https://github.com/IBM-developer-skills-network
+    * https://github.com/IBM-cloud-architecture
 * https://github.com/IBMPredictiveAnalytics
 * https://github.com/IBM-skills-network
 * https://github.com/IBMruntimes
-* https://github.com/Illumina
-* https://github.com/Instagram
+    * https://github.com/Illumina
+    * https://github.com/Instagram
 * https://github.com/Intel
 * https://github.com/IntelLabs
 * https://github.com/Intuit
@@ -119,7 +119,7 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 * https://github.com/Liquid-Web-Design-London
 * https://github.com/Logitech
 * https://github.com/Lyft
-* https://github.com/Mastercard
+    * https://github.com/Mastercard
 * https://github.com/Mercedes-Benz
 * https://github.com/Microsoft
 * https://github.com/MicrosoftDocs
