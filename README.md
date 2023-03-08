@@ -15,15 +15,6 @@ We are moving the entries to https://github.com/OSDC-Code-Maven/open-source-by-o
 * https://github.com/DataStax-Academy
 * https://github.com/Deriv-com
 * https://github.com/Derivable-io
-* https://github.com/Docker
-* https://github.com/Docker-library
-* https://github.com/DockerSamples
-* https://github.com/DoorDash
-* https://github.com/eBay
-* https://github.com/Facebook
-* https://github.com/Fastly
-* https://github.com/Ford
-* https://github.com/geo-codes-com
 * https://github.com/geocodeearth
 * https://github.com/geocode2020
     * https://github.com/Google
@@ -38,14 +29,6 @@ We are moving the entries to https://github.com/OSDC-Code-Maven/open-source-by-o
 * https://github.com/Huawei-noah
 * https://github.com/HuaweiCloud
 * https://github.com/HuaweiCodeLabs
-    * https://github.com/IBM
-    * https://github.com/IBM-developer-skills-network
-    * https://github.com/IBM-cloud-architecture
-* https://github.com/IBMPredictiveAnalytics
-* https://github.com/IBM-skills-network
-* https://github.com/IBMruntimes
-    * https://github.com/Illumina
-    * https://github.com/Instagram
 * https://github.com/Intel
 * https://github.com/IntelLabs
 * https://github.com/Intuit
