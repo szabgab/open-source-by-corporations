@@ -9,22 +9,12 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
 
 We are moving the entries to https://github.com/OSDC-Code-Maven/open-source-by-organizations/
 
-* https://github.com/cPanel
-* https://github.com/cPanelInc
-* https://github.com/cPanelPlugins
-* https://github.com/Databricks
-* https://github.com/Databricks-Academy
-* https://github.com/DatabricksLabs
-* https://github.com/Databricks-PTP
 * https://github.com/DataStax
 * https://github.com/DataStaxDevs
 * https://github.com/DataStax-Examples
 * https://github.com/DataStax-Academy
-    * https://github.com/Dell
 * https://github.com/Deriv-com
 * https://github.com/Derivable-io
-    * https://github.com/DerivedFinance
-    * https://github.com/Disney
 * https://github.com/Docker
 * https://github.com/Docker-library
 * https://github.com/DockerSamples
@@ -33,11 +23,9 @@ We are moving the entries to https://github.com/OSDC-Code-Maven/open-source-by-o
 * https://github.com/Facebook
 * https://github.com/Fastly
 * https://github.com/Ford
-    * https://github.com/Forem
 * https://github.com/geo-codes-com
 * https://github.com/geocodeearth
 * https://github.com/geocode2020
-    * https://github.com/Github
     * https://github.com/Google
 * [Terraform modules for Google Cloud](https://github.com/terraform-google-modules)
 * https://github.com/Gradle
