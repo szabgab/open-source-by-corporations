@@ -18,8 +18,8 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
     * https://github.com/Automattic
     * https://github.com/AWS
     * https://github.com/AWSlabs
-* https://github.com/bioinform Roche Sequencing Solutions
-* https://github.com/BlackDuckSoftware
+    * https://github.com/bioinform Roche Sequencing Solutions
+    * https://github.com/BlackDuckSoftware
     * https://github.com/Bookingcom
     * https://github.com/Bosch
     * https://github.com/Bosch-Engineering
@@ -29,34 +29,33 @@ There are separate lists  [Open Source by Higher Education Institutes](https://g
     * https://github.com/BoschResearch
     * https://github.com/BoschSensortec
     * https://github.com/BoschSmartHome
-* https://github.com/BoschRexroth
+    * https://github.com/BoschRexroth
     * https://github.com/Broadcom
     * https://github.com/Bloomberg
-* https://github.com/Bytemarkinc
-* https://github.com/BytemarkHosting
+    * https://github.com/Bytemarkinc
+    * https://github.com/BytemarkHosting
     * https://github.com/Canonical
-* https://github.com/CanonicalLtd
-* https://github.com/Canonical-web-and-design
-* https://github.com/Canonical-OLS
-* https://github.com/Canonical-LLC
-* https://github.com/Canonical-debate-lab
+    * https://github.com/CanonicalLtd
+    * https://github.com/Canonical-web-and-design
+    * https://github.com/Canonical-OLS
+    * https://github.com/Canonical-LLC
+    * https://github.com/Canonical-debate-lab
     * https://github.com/Capgemini
     * https://github.com/Cisco
     * https://github.com/CloudBees
     * https://github.com/CloudBees-days
     * [CloudBees - Electric Cloud](https://github.com/electric-cloud)
-* [CloudBees Feature Management](https://github.com/rollout)
-* [CloudBees Demos](https://github.com/cb-demos)
-* https://github.com/CloudBees-OSS
+    * [CloudBees Feature Management](https://github.com/rollout)
+    * [CloudBees Demos](https://github.com/cb-demos)
+    * https://github.com/CloudBees-OSS
     * https://github.com/Cloudera
     * https://github.com/Cloudera-labs
-* [Cloudera Inc](https://github.com/hortonworks)
-* [Cloudera Fast Forward Labs](https://github.com/fastforwardlabs)
-* [Cloudera Hortonworks](https://github.com/hortonworks)
-* https://github.com/Comcast
-* https://github.com/ConfluentInc
-* https://github.com/ConfluentJenkins
-* https://github.com/ConfluentForms
+    * [Cloudera Fast Forward Labs](https://github.com/fastforwardlabs)
+    * [Cloudera Hortonworks](https://github.com/hortonworks)
+    * https://github.com/Comcast
+    * https://github.com/ConfluentInc
+    * https://github.com/ConfluentJenkins
+    * https://github.com/ConfluentForms
 * https://github.com/cPanel
 * https://github.com/cPanelInc
 * https://github.com/cPanelPlugins
